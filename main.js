@@ -13,6 +13,6 @@ $(document).on('ready', function() {
   // $('p:eq( 3 )').append('&nbsp;&nbsp;<span>appending</span>')
 
   console.log(test);
-
+  console.log(test);
 
   });
